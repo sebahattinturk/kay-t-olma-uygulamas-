@@ -1,0 +1,31 @@
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\bin\x64\Debug\kullanıcıgirişiuygulama.exe.config
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\bin\x64\Debug\kullanıcıgirişiuygulama.exe
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\bin\x64\Debug\kullanıcıgirişiuygulama.pdb
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.AssemblyReference.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form1.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form3.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Properties.Resources.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.GenerateResource.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.CoreCompileInputs.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.exe
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.pdb
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form2.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form4.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form5.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\bin\x64\Debug\kullanıcıgirişiuygulama.exe.config
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\bin\x64\Debug\kullanıcıgirişiuygulama.exe
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\bin\x64\Debug\kullanıcıgirişiuygulama.pdb
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.AssemblyReference.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form1.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form2.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form3.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form4.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form5.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Properties.Resources.resources
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.GenerateResource.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.csproj.CoreCompileInputs.cache
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.exe
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.pdb
+C:\Users\turks\Desktop\Visual Studio 2022 Programlar\kullanıcıgirişiuygulama(İLK PROFESYONEL)\kullanıcıgirişiuygulama\obj\x64\Debug\kullanıcıgirişiuygulama.Form6.resources
